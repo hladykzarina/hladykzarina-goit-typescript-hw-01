@@ -1,1 +1,0 @@
-# hladykzarina-goit-typescript-hw-01
